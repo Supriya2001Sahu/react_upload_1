@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Supriya Sahu",
+      "mobile": "8249417779",
+      "email": "supriyasahups2001@gmail.com",
+      "password": "supriya@321",
+      "id": 1
+    },
+    {
+      "name": "shikha",
+      "mobile": "9876543211",
+      "email": "redst@4321",
+      "password": "ytredfg",
+      "id": 2
+    }
+  ]
+}
